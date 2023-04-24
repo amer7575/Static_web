@@ -1,1 +1,1 @@
-# Django
+Static web
